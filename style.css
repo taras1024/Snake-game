@@ -12,7 +12,8 @@
 }
 
 .snake {
-    background-color: green;
+    background-color: #59982f;
+    border-radius: 5px;
 }
 
 .apple {
