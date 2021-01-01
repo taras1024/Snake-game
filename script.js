@@ -30,7 +30,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
 
-    //function that deals with all outcomes of a Snake
+    //function that deals with all outcomes of a Snake...
     function moveOutComes () {
 
         //deals with snake hitting self and the border
