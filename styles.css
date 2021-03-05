@@ -1,0 +1,27 @@
+#board {
+    border: 5px solid #000;
+    display: flex;
+    flex-wrap: wrap;
+	background-image: url('snake_board-bg.jpg');
+}
+
+.square {
+    width: 20px;
+    height: 20px;
+}
+
+.apple {
+    width: 20px;
+    height: 20px;
+    background-image: url('apple.png');
+}
+
+.snake {
+    border-radius: 5px;
+    background-color: green;
+}
+.head {
+	background-image: url('snake-head2.png');
+	/*background-color: #598842;*/
+	background-size: cover;
+}
